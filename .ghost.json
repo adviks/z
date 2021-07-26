@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://asadcms.herokuapp.com",
+    "contentApiKey": "e612584e60586e43ab4f5a0b51"
+  },
+  "production": {
+    "apiUrl": "https://asadcms.herokuapp.com",
+    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+  }
+}
